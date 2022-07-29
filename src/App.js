@@ -1,4 +1,4 @@
-import { deepPurple, indigo, green } from "@mui/material/colors";
+import { indigo } from "@mui/material/colors";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 // import LoginPage from "./pages/LoginPage";
 import SignUpPage from "./pages/SignUpPage";
